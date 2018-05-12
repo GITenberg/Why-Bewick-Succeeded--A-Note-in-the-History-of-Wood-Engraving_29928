@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25222'
     url: http://www.gutenberg.org/2009/agents/25222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29928#Why-Bewick-Succeeded--A-Note-in-the-History-of-Wood-Engraving
 gutenberg_issued: '2009-09-07'
 gutenberg_type: Text
 identifiers:
