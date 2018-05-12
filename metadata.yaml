@@ -1,0 +1,27 @@
+_repo: Why-Bewick-Succeeded--A-Note-in-the-History-of-Wood-Engraving_29928
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29928-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Kainen, Jacob
+    birthdate: 1909
+    deathdate: 2001
+    gutenberg_agent_id: '25222'
+    url: http://www.gutenberg.org/2009/agents/25222
+description: ''
+gutenberg_issued: '2009-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wood-engraving -- History'
+- !lcsh 'Bewick, Thomas, 1753-1828'
+- !lcc 'NE'
+title: 'Why Bewick Succeeded: A Note in the History of Wood Engraving'
+url: http://www.gutenberg.org/ebooks/29928
